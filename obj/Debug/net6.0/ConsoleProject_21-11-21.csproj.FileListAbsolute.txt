@@ -1,0 +1,15 @@
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\bin\Debug\net6.0\ConsoleProject_21-11-21.exe
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\bin\Debug\net6.0\ConsoleProject_21-11-21.deps.json
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\bin\Debug\net6.0\ConsoleProject_21-11-21.runtimeconfig.json
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\bin\Debug\net6.0\ConsoleProject_21-11-21.dll
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\bin\Debug\net6.0\ref\ConsoleProject_21-11-21.dll
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\bin\Debug\net6.0\ConsoleProject_21-11-21.pdb
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\obj\Debug\net6.0\ConsoleProject_21-11-21.csproj.AssemblyReference.cache
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\obj\Debug\net6.0\ConsoleProject_21-11-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\obj\Debug\net6.0\ConsoleProject_21-11-21.AssemblyInfoInputs.cache
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\obj\Debug\net6.0\ConsoleProject_21-11-21.AssemblyInfo.cs
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\obj\Debug\net6.0\ConsoleProject_21-11-21.csproj.CoreCompileInputs.cache
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\obj\Debug\net6.0\ConsoleProject_21-11-21.dll
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\obj\Debug\net6.0\ref\ConsoleProject_21-11-21.dll
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\obj\Debug\net6.0\ConsoleProject_21-11-21.pdb
+C:\Users\MARCO\source\repos\ConsoleProject_21-11-21\obj\Debug\net6.0\ConsoleProject_21-11-21.genruntimeconfig.cache
